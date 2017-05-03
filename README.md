@@ -5,10 +5,15 @@ CSS selector
 project files is the last submission you had to do (https://github.com/kob-e/Front-End-Beginners---Assignment-2).
 
 ## What should you do
-Each section should have now css class name 'books-category'.
-each book element should have css class names 'single-book'.
-line should have 3 books in a row.
-use overflow hidden for 'books-category' so you will now lose the element height.
+
+- Each section should have now css class name ```books-category```.
+- each book element should have css class names ```single-book```.
+- line should have 3 books in a row.
+- use ```overflow:hidden``` for ```books-category``` so you will now lose the element height.
+- set right side of our website, ```aside``` element with the class ```right-boxes```
+- look at ```footer``` now, how can you solve it? (```clear``` somehting maybe?)
+- in your right aside, put a new section with class ```top-books```
+
 
 ## Result
 Should look like : https://kob-e.github.io/Front-End-Beginners---Assignment-3/after/index.html
