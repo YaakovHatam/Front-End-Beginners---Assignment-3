@@ -21,6 +21,9 @@ Should look like : https://kob-e.github.io/Front-End-Beginners---Assignment-3/af
 ## Reference materials
 
 ### Course slides
+#### CSS Selectors
+https://github.com/codestackacademy/Front-End-Beginners---Course-materials/blob/master/CSS%20Selectors%20presentation.pdf
+
 #### CSS positions
 https://github.com/codestackacademy/Front-End-Beginners---Course-materials/blob/master/CSS%20positions%20presentation.pdf
 
