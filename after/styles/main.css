@@ -87,6 +87,24 @@ form button {
     outline: none;
 }
 
+/* page structure */
+main.page-content {
+    float: left;
+    width: 70%;
+    padding: 0 15px;
+    box-sizing: border-box;
+}
+aside.right-boxes {
+    float: left;
+    width: 30%;
+    padding: 0 15px;
+    box-sizing: border-box;
+}
+footer.page-footer {
+    clear: both;
+}
+
+/* main */
 .books-category {
     overflow: hidden;
 }
@@ -94,4 +112,9 @@ form button {
 .books-category .single-book {
     float: left;
     width: 33%;
+}
+
+/* right */
+.top-books {
+
 }
