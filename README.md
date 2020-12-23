@@ -2,7 +2,7 @@
 CSS selector
 
 ## Project files
-project files is the last submission you had to do (https://github.com/kob-e/Front-End-Beginners---Assignment-2).
+project files is the last submission you had to do (https://github.com/YaakovHatam/Front-End-Beginners---Assignment-2).
 
 ## What should you do
 
@@ -16,7 +16,7 @@ project files is the last submission you had to do (https://github.com/kob-e/Fro
 
 
 ## Result
-Should look like : https://kob-e.github.io/Front-End-Beginners---Assignment-3/after/index.html
+Should look like : https://YaakovHatam.github.io/Front-End-Beginners---Assignment-3/after/index.html
 
 ## Reference materials
 
